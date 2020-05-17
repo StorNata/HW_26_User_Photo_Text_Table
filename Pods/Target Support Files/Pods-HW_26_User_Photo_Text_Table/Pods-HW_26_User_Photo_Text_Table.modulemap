@@ -1,0 +1,6 @@
+framework module Pods_HW_26_User_Photo_Text_Table {
+  umbrella header "Pods-HW_26_User_Photo_Text_Table-umbrella.h"
+
+  export *
+  module * { export * }
+}
